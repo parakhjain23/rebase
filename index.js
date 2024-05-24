@@ -5,11 +5,6 @@ console.log('fourth main');
 
 // second branch
 console.log('third')
-
-
-
-console.log('fourth')
-console.log('fourth')
 console.log('third')
 console.log('third')
 console.log('third')
